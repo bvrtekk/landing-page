@@ -48,6 +48,7 @@ ul {
 }
 
 .hero {
+    flex-wrap: wrap;
     padding: 90px;
     display: flex;
     align-items: center;
@@ -97,6 +98,7 @@ ul {
     max-width: 1000px;
     margin: auto;
     gap: 60px;
+    flex-wrap: wrap;
 }
 .content {
     padding: 50px;
